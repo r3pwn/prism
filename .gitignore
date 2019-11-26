@@ -2,6 +2,7 @@
 bin/
 *.out
 *.o
+prism
 
 # Ignore Generated Rainbow Tables
 *.rt
